@@ -8,3 +8,6 @@ Alternatively, you can convert it to an executable using PyInstaller.
 Note:
 This script is still in its early stages and is not fully optimized. 
 It’s a simple test to see if the concept works. Future improvements and features, including map visualization, will be added using C++ for better performance.
+
+
+![Screenshot](assets/screenshot.png)
