@@ -1,8 +1,8 @@
-This Python script was created to automate the calculation of artillery distances in Hell Let Loose. It captures screenshots of a specific area, extracts MIL values using OCR, and calculates the corresponding distance in meters.
+This Python script was created to automate the calculation of artillery distances in Hell Let Loose. It captures screenshots of the lower right corner, extracts MIL values using OCR, and calculates the corresponding distance in meters.
 
 Usage : 
 Run the script with Python:
-python script_name.py
+python HLLArtilleryCalculator v1.0.py
 Alternatively, you can convert it to an executable using PyInstaller.
 
 Note:
